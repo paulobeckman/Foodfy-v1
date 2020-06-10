@@ -53,13 +53,13 @@ Projeto desenvolvido como desafio no curso **LaunchBase** oferecida pela [Rocket
 	
  <img alt="foodfy-v1" title="#foodfy-v1" src="./github-assets/foodfy1.gif" width="800px">
 
-  <img alt="foodfy-v1" title="#foodfy-v1" src="./github-assets/paginas1.png" width="400px">
+  <img alt="foodfy-v1" title="#foodfy-v1" src="./github-assets/pagina1.png" width="400px">
 
-  <img alt="foodfy-v1" title="#foodfy-v1" src="./github-assets/paginas2.png" width="400px">
+  <img alt="foodfy-v1" title="#foodfy-v1" src="./github-assets/pagina2.png" width="400px">
   
-  <img alt="foodfy-v1" title="#foodfy-v1" src="./github-assets/paginas3.png" width="400px">
+  <img alt="foodfy-v1" title="#foodfy-v1" src="./github-assets/pagina3.png" width="400px">
 
-  <img alt="foodfy-v1" title="#foodfy-v1" src="./github-assets/paginas4.png" width="400px">
+  <img alt="foodfy-v1" title="#foodfy-v1" src="./github-assets/pagina4.png" width="400px">
 </p>
 
 ## 🛠 Tecnologias
