@@ -30,9 +30,9 @@
 
 ## 💻 Sobre o projeto
 
-Foodfy é um site que nesse projeto está na versão 1 e traz receitas de varios chefes, também traz um espaço para o usuário saber um pouco mais sobre o próprio foodfy.
+Foodfy é um site que nesse projeto está na versão 1 e traz receitas de vários chefes, também traz um espaço para o usuário saber um pouco mais sobre o próprio foodfy.
 
-
+Na aba receitas os cards das receitas ao serem clicados, será aberto uma janela de dirá qual o nome da receita e quem é o chefe que fez ela.
 
 
 Projeto desenvolvido como desafio no curso **LaunchBase** oferecida pela [Rocketseat](rs).
@@ -87,6 +87,8 @@ $ cd rocketseat-courses
 
 # Execute o comando para abrir o projeto no VScode
 $ cd code .
+
+# Com o live server instalado clique com o botão direito em cima do arquivo e clique em abrir com live serve
 
 # O servidor inciará na porta:127.0.0.1:5501 - acesse http://127.0.0.1:5501/
 ```
