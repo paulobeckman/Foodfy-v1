@@ -30,17 +30,9 @@
 
 ## 💻 Sobre o projeto
 
-Foodfy version 1 apresenta as informações de todos os cursos da [Rocketseat](rs), além de poder redirecionar para todas as redes sociais e comunidade da instituição.
+Foodfy é um site que nesse projeto está na versão 1 e traz receitas de varios chefes, também traz um espaço para o usuário saber um pouco mais sobre o próprio foodfy.
 
-O usuário poderá ser redirecionado para:
-- mandar email à instituição
-- fazer ligação à instituição
-- comunidade aberta no discord
-- acessar o GitHub, instagram e facebook da instituição
 
-Os usuários poderão ter acesso as informações dos três cursos na pagina conteúdos:
-- Nessa página é apresentado três cards, cada card contendo uma logo do curso, uma pequena descrição sobre o curso, quatidades de módulos e se o curso é pago ou gratuito. 
-- Ao clicar em cada card é aberto uma janela que apresenta a pagina oficial do curso presente no site da Rocketseat.
 
 
 Projeto desenvolvido como desafio no curso **LaunchBase** oferecida pela [Rocketseat](rs).
