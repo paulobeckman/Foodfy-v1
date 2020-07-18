@@ -3,13 +3,13 @@
 </h1>
 
 <h4 align="center"> 
-	🚀 Desafio Principal - Foodfy V1 🚀
+	🚀 Desafio Principal - Foodfy version 1 🚀
 </h4>
  
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/paulobeckman/foodfy-v1?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/paulobeckman/Foodfy-v1?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/paulobeckman/foodfy-v1">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/paulobeckman/Foodfy-v1">
 
   	
   <a href="https://www.linkedin.com/in/paulobeckman/">
@@ -17,13 +17,13 @@
   </a>
 	
   
-  <a href="https://github.com/paulobeckman/foodfy-v1/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/paulobeckman/foodfy-v1">
+  <a href="https://github.com/paulobeckman/Foodfy-v1/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/paulobeckman/Foodfy-v1">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-   <a href="https://github.com/paulobeckman/foodfy-v1/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/paulobeckman/foodfy-v1?style=social">
+   <a href="https://github.com/paulobeckman/Foodfy-v1/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/paulobeckman/Foodfy-v1?style=social">
   </a>
 </p>
 
@@ -43,15 +43,15 @@ Projeto desenvolvido como desafio no curso **LaunchBase** oferecida pela [Rocket
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
 	
- <img alt="foodfy-v1" title="#foodfy-v1" src="./github-assets/foodfy1.gif" width="800px">
+ <img alt="Foodfy-v1" title="#Foodfy-v1" src="./github-assets/foodfy1.gif" width="800px">
 
-  <img alt="foodfy-v1" title="#foodfy-v1" src="./github-assets/pagina1.png" width="400px">
+  <img alt="Foodfy-v1" title="#Foodfy-v1" src="./github-assets/pagina1.png" width="400px">
 
-  <img alt="foodfy-v1" title="#foodfy-v1" src="./github-assets/pagina2.png" width="400px">
+  <img alt="Foodfy-v1" title="#Foodfy-v1" src="./github-assets/pagina2.png" width="400px">
   
-  <img alt="foodfy-v1" title="#foodfy-v1" src="./github-assets/pagina3.png" width="400px">
+  <img alt="Foodfy-v1" title="#Foodfy-v1" src="./github-assets/pagina3.png" width="400px">
 
-  <img alt="foodfy-v1" title="#foodfy-v1" src="./github-assets/pagina4.png" width="400px">
+  <img alt="Foodfy-v1" title="#Foodfy-v1" src="./github-assets/pagina4.png" width="400px">
 </p>
 
 ## 🛠 Tecnologias
