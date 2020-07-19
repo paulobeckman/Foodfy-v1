@@ -80,10 +80,10 @@ Além disso se preferir usar o live server basta instala-lo como extenção. A i
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/paulobeckman/rocketseat-courses.git
+$ git clone https://github.com/paulobeckman/Foodfy-v1.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd rocketseat-courses
+$ cd Foodfy-v1
 
 # Execute o comando para abrir o projeto no VScode
 $ cd code .
